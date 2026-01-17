@@ -1,1 +1,1 @@
-Bienvenu dans le repository qui contiendra les fichiers qui pouront vous aider à votre TM 2026
+Bienvenu dans le repository qui contiendra les fichiers qui pouront vous aider durant votre TM 2026
